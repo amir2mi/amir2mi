@@ -1,5 +1,5 @@
-I'm Amir Mohamad Mohamadi, a passionate software engineer who specializes in developing web frontend and designing user interfaces.   
-Currently, I'm studying for a bachelor's degree in software engineering and work on the front side of the web to make reality from sketched ideas.  
+A passionate software engineer who specializes in developing web frontend and designing user interfaces, currently studying for a bachelor's degree in software engineering and working on the front side of the web to make reality from sketched ideas.    
+
 I often write technical articles in [English](https://dev.to/amir2mi) and [Persian](https://virgool.io/@amir2mi).   
 Besides coding, I like music, photography, biking, and learning different languages.
 
