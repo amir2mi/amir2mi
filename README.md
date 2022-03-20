@@ -16,6 +16,9 @@ Besides coding, I like music, running, biking, and learning languages.
   <a target="_black" href="https://www.figma.com/@amir2mi">
     <img alt="Figma Profile" src="https://img.shields.io/badge/figma-%23212121.svg?style=for-the-badge&logo=figma&logoColor=white"/>
   </a>
+  <a target="_black" href="https://dribbble.com/amir2mi">
+    <img alt="Dribbble Profile" src="https://img.shields.io/badge/Dribbble-212121?style=for-the-badge&logo=dribbble&logoColor=white"/>
+  </a>
   <a target="_black" href="https://codepen.io/amirmp3">
     <img alt="CodePen Profile" src="https://img.shields.io/badge/Codepen-212121?style=for-the-badge&logo=codepen&logoColor=white"/>
   </a>
