@@ -7,6 +7,7 @@ Besides coding, I like music, running, biking, and learning languages.
 ✍ Technical Writer  
 🎵 Musician   
 🚲 Cyclist  
+🌐 Linguist (Kinda)
 
 <div target="_black" style="display: flex; flex-wrap: wrap">
   <a href="https://linkedin.com/in/amir2mi">
