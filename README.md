@@ -3,8 +3,8 @@ Nowadays, I work with JavaScript front-end libraries to make reality from sketch
 I often write technical articles in [English](https://dev.to/amir2mi) and [Persian](https://virgool.io/@amir2mi).   
 Besides coding, I like music, running, biking, and learning languages.   
 
-🙋 Open-source Contributer  
-✍ Technical Writer  
+🙋 ~Open-source Contributer  
+✍ ~Technical Writer  
 🎵 ~Musician   
 🚲 ~Cyclist  
 🌐 ~Linguist
