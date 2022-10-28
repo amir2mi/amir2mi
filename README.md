@@ -1,13 +1,7 @@
-I'm Amir Mohamad Mohamadi, a passionate web developer who specializes in web frontend and designing user interfaces.  
-Nowadays, I work with JavaScript front-end libraries to make reality from sketched ideas.  
+I'm Amir Mohamad Mohamadi, a passionate software engineer who specializes in developing web frontend and designing user interfaces.  
+Currently, I'm studying for a bachelor's degree in software engineering and work with JavaScript front-end libraries to make reality from sketched ideas.
 I often write technical articles in [English](https://dev.to/amir2mi) and [Persian](https://virgool.io/@amir2mi).   
-Besides coding, I like music, running, biking, and learning languages.   
-
-🙋 ~Open-source Contributer  
-✍ ~Technical Writer  
-🎵 ~Musician   
-🚲 ~Cyclist  
-🌐 ~Linguist
+Besides coding, I like music, running, biking, and learning different languages.
 
 <div target="_black" style="display: flex; flex-wrap: wrap">
   <a href="https://linkedin.com/in/amir2mi">
