@@ -23,6 +23,3 @@ Besides coding, I like music, running, biking, and learning different languages.
   </a>
 </div>
 
-BTC: bc1qajdanz0wjgy3d2p80rty8t0ss696t227cx3g3c
-
-
