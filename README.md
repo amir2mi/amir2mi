@@ -1,5 +1,3 @@
-Articles in [English](https://dev.to/amir2mi) and [Persian](https://virgool.io/@amir2mi).   
-
 <div target="_black" style="display: flex; flex-wrap: wrap">
   <a href="https://linkedin.com/in/amir2mi">
     <img alt="LinkedIn Profile" src="https://img.shields.io/badge/linkedin-%23212121.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
