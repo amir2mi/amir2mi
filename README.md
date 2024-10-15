@@ -24,7 +24,7 @@
     <img alt="Unsplash Profile" src="https://img.shields.io/badge/Spotify-%23212121.svg?style=for-the-badge&logo=Spotify&logoColor=white"/>
   </a>
   <a target="_black" href="https://www.goodreads.com/amir2mi">
-    <img alt="Goodreads Profile" src="https://img.shields.io/badge/Spotify-%23212121.svg?style=for-the-badge&logo=Goodreads&logoColor=white"/>
+    <img alt="Goodreads Profile" src="https://img.shields.io/badge/Goodreads-%23212121.svg?style=for-the-badge&logo=Goodreads&logoColor=white"/>
   </a>
 </div>
 
